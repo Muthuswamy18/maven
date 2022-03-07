@@ -1,0 +1,23 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+[EnvInject] - Loading node environment variables.
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\parametirized_job
+[parametirized_job] $ cmd /c call C:\WINDOWS\TEMP\jenkins4366623448178501134.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\parametirized_job>echo edge 
+edge
+
+C:\ProgramData\Jenkins\.jenkins\workspace\parametirized_job>echo false 
+false
+
+C:\ProgramData\Jenkins\.jenkins\workspace\parametirized_job>echo  
+ECHO is on.
+
+C:\ProgramData\Jenkins\.jenkins\workspace\parametirized_job>echo jenkins 
+jenkins
+
+C:\ProgramData\Jenkins\.jenkins\workspace\parametirized_job>echo  
+ECHO is on.
+
+C:\ProgramData\Jenkins\.jenkins\workspace\parametirized_job>exit 0 
+Finished: SUCCESS
